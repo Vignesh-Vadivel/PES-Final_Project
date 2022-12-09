@@ -1,0 +1,2 @@
+../source/timers.c:24:6:Init_TPM	8	static
+../source/timers.c:38:6:Start_TPM	8	static

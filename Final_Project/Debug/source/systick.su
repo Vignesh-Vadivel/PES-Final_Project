@@ -1,0 +1,6 @@
+S:\MCUXpressoIDE_11.6.0_8187\Final_Project\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+S:\MCUXpressoIDE_11.6.0_8187\Final_Project\CMSIS/core_cm0plus.h:885:26:SysTick_Config	16	static
+../source/systick.c:32:6:SysTick_Handler	8	static
+../source/systick.c:44:6:SetIndex	8	static
+../source/systick.c:48:9:getCurrentFreq	8	static
+../source/systick.c:52:6:Init_SysTick	8	static
